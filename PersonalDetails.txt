@@ -1,0 +1,13 @@
+Name : Suryakant Badhrinath Kasare
+Roll : 2020BIT003
+Email: 2020bit003@sggs.ac.in
+
+Name of the project :
+1) Voting System -
+   Objective : To build System that Create Voting For Socity and College level
+2) PostMe -
+   Info : Bloging Website build using Next.js 
+3) SolveMe -
+   Info : Mobile app build using React Native 
+
+Subject Of Interest : DBMS
